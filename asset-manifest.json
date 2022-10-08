@@ -1,10 +1,11 @@
 {
-  "main.js": "/portfolio/static/js/main.c36e3d33.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.c36e3d33.chunk.js.map",
-  "static/js/1.f403f6d5.chunk.js": "/portfolio/static/js/1.f403f6d5.chunk.js",
-  "static/js/1.f403f6d5.chunk.js.map": "/portfolio/static/js/1.f403f6d5.chunk.js.map",
+  "main.js": "/portfolio/static/js/main.10821a0d.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.10821a0d.chunk.js.map",
+  "static/js/1.a3ff8f51.chunk.js": "/portfolio/static/js/1.a3ff8f51.chunk.js",
+  "static/js/1.a3ff8f51.chunk.js.map": "/portfolio/static/js/1.a3ff8f51.chunk.js.map",
   "runtime~main.js": "/portfolio/static/js/runtime~main.ee2a1003.js",
   "runtime~main.js.map": "/portfolio/static/js/runtime~main.ee2a1003.js.map",
+  "static/media/crypto.png": "/portfolio/static/media/crypto.a7427497.png",
   "static/media/Tag-Developer.png": "/portfolio/static/media/Tag-Developer.744ace2d.png",
   "static/media/NaderMaher.jpeg": "/portfolio/static/media/NaderMaher.a6afa8a0.jpeg",
   "static/media/website1.png": "/portfolio/static/media/website1.377c194b.png",
@@ -14,6 +15,6 @@
   "static/media/Vetor-Contato.png": "/portfolio/static/media/Vetor-Contato.2e8a544f.png",
   "static/media/Curriculum-Atualizado-Anderson-Dias.pdf": "/portfolio/static/media/Curriculum-Atualizado-Anderson-Dias.5c754427.pdf",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.2ce6c9739ba69dc755c05abd2d647315.js": "/portfolio/precache-manifest.2ce6c9739ba69dc755c05abd2d647315.js",
+  "precache-manifest.2539ae604831c239ed054ce7549fd3ad.js": "/portfolio/precache-manifest.2539ae604831c239ed054ce7549fd3ad.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }
